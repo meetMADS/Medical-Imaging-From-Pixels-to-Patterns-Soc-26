@@ -10,7 +10,7 @@
 >    most two links per week and read them properly.
 > 4. **Do the notebooks and exercises** in `week_N/Readme.md`.
 >
-> The reason for this order: most students lose more time hopping
+> The reason for this order: most of us lose more time hopping
 > between random search results trying to figure out what a term means
 > than they do actually learning the concept. The handbook is here so
 > that every external resource you read already has a slot to drop
@@ -20,7 +20,7 @@
 
 | File | Purpose |
 |---|---|
-| `handbook_main.tex` | **Long Technical Handbook.** Mentee reads this first each week. |
+| `handbook_main.tex` | **Long Technical Handbook.** You read this first each week. |
 | `syllabus_main.tex` | **Short Syllabus.** Checklist of topics + curated links per week. |
 | `references.bib` | Starter BibTeX file. Not used by either main `.tex` directly (they use inline `\href`), but useful when mentees write their Week-7/8 reports. |
 | `sections/`, `handbook_sections/` | Empty placeholder folders kept for future splitting (right now both main files are self-contained for simplicity). |
