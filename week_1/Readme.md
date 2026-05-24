@@ -6,14 +6,12 @@
 
 ## 1. What you should be able to do by the end
 
-1. Load a 2D medical image and a 3D NIfTI volume in Python, show a slice,
-   plot the intensity histogram.
-2. Explain what a pixel/voxel is, what an intensity is, and why
+1. Explain what a pixel/voxel is, what an intensity is, and why
    *colormap ≠ data*.
-3. Compute a 2D convolution by hand on a 3×3 image and confirm it with NumPy.
-4. State and use Bayes' theorem in words and equations.
-5. Tell the difference between **MLE** and **MAP** estimation in one breath.
-6. Know what a vector space, an inner product, a norm (L1 vs L2), an
+2. Compute a 2D convolution by hand on a 3×3 image and confirm it with NumPy.
+3. State and use Bayes' theorem in words and equations.
+4. Tell the difference between **MLE** and **MAP** estimation in one breath.
+5. Know what a vector space, an inner product, a norm (L1 vs L2), an
    eigenvector, and a positive-definite matrix are.
 
 ## 2. Topics
