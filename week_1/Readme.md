@@ -85,12 +85,3 @@ Pick **one** from each row. Don't try to read everything.
 4. By hand, derive the MAP estimate of the mean μ of a Gaussian
    likelihood with a Gaussian prior on μ. (See `Slides_MIC_ImageModeling.pdf`,
    slides 10–12 — try it *before* peeking.)
-5. Code the 2D DFT of a single delta image and a single sinusoidal
-   image; explain what you see.
-
-## 7. What's next
-
-Week 2 introduces **statistical priors on images** (Markov Random Fields
-and Gibbs distributions) and uses them to formulate **image denoising**
-as a Bayesian inverse problem. Every concept above (Bayes, MLE/MAP,
-gradients, norms) will be used immediately.
