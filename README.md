@@ -13,7 +13,7 @@ A mentee handbook + code repo for an 8-week Summer-of-Code project on
 
 ## 1. Who this is for
 
-- Audience: **interdisciplinary undergraduates** You do not need a deep ML background. You **do** need
+- Audience: **interdisciplinary undergraduates**: You do not need a deep ML background. You **do** need
   to be comfortable with basic linear algebra and calculus, and willing
   to brush up probability.
 - Time commitment: ~8 weeks, ~10–15 hours/week.
