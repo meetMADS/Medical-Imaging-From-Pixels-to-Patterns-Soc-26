@@ -29,8 +29,8 @@
   products as linear maps, transpose, inverse, rank, null space,
   eigenvalues/eigenvectors, symmetric / positive-definite matrices,
   SVD (just the *what*, not yet the *why*).
-- **Norms.** \( \ell^1 \), \( \ell^2 \), \( \ell^\infty \); geometric
-  meaning ("Manhattan" vs. Euclidean), why \( \ell^1 \) promotes
+- **Norms.** $ \ell^1 $, $ \ell^2 $, $ \ell^\infty $; geometric
+  meaning ("Manhattan" vs. Euclidean), why $ \ell^1 $ promotes
   sparsity (preview for TV regularisation in Week 3).
 - **Probability refresher.** Sample space, random variable, PDF/PMF,
   CDF, expectation, variance, independence, conditional probability.
