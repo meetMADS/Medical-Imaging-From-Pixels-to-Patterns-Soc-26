@@ -2,8 +2,7 @@
 
 A mentee handbook + code repo for an 8-week Summer-of-Code project on
 **Medical Image Computing (MIC)**. The curriculum is built on top of
-*CS-736 Medical Image Computing* (IIT Bombay, Prof. Suyash P. Awate) and
-extends it with a small dose of modern deep learning at the end.
+*CS-736 Medical Image Computing* (IIT Bombay, Prof. Suyash P. Awate).
 
 > **Course philosophy.** This is **not** "apply AI to medical images". It is
 > a math-first course. You will spend most of your time on
