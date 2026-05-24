@@ -58,10 +58,8 @@ MIC-SoC/
 ├── slides/                            ← CS-736 slide decks (primary reading)
 │   └── SLIDES_INDEX.md                ← which deck maps to which week
 ├── Overview/                          ← two LaTeX documents (the handbooks)
-│   ├── handbook_main.tex              ← LONG technical handbook (read first each week)
-│   ├── syllabus_main.tex              ← SHORT syllabus (week-by-week tables)
-│   ├── handbook_main.pdf              ← compiled output (also shared with mentees)
-│   ├── syllabus_main.pdf              ← compiled output
+│   ├── handbook_main.pdf              ← LONG technical handbook (read first each week)
+│   ├── syllabus_main.pdf              ← SHORT syllabus (week-by-week tables)
 │   ├── references.bib
 │   ├── sections/                      ← syllabus chapters (reserved for future split)
 │   └── handbook_sections/             ← handbook chapters (reserved for future split)
