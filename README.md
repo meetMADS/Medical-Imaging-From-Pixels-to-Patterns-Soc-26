@@ -7,10 +7,7 @@ A mentee handbook + code repo for an 8-week Summer-of-Code project on
 > **Course philosophy.** This is **not** "apply AI to medical images". It is
 > a math-first course. You will spend most of your time on
 > probability, linear algebra, optimisation, signal processing, and
-> physics-based image formation models. Deep learning shows up only in the
-> last two content weeks (CNNs / VAEs / GANs), and even there it is framed
-> as *one* class of priors and *one* class of optimisers in the broader
-> Bayesian picture you'll have built up by then.
+> physics-based image formation models.
 
 ---
 
