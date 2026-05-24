@@ -35,7 +35,4 @@ useful) which slide ranges to focus on.
 ## Attribution / re-distribution
 
 These decks are bundled for the use of mentees on this Summer-of-Code
-project. Do not redistribute outside this project. The course is openly
-documented at the CS-736 page; if mentees want the most current version
-of the decks, point them to the official IIT Bombay course page rather
-than passing the PDFs around.
+project. Do not redistribute outside this project.
