@@ -26,14 +26,14 @@ If you've never written a Python program with NumPy, do
 
 Read in this order:
 
-1. **`Overview/handbook_main.tex` — the Long Technical Handbook.** This
+1. **`Overview/handbook_main.pdf` — the Long Technical Handbook.** This
    is your *big-picture-first* reference. For every week it gives you a
    moderately technical overview of every term you will encounter, and
    then links you out to deeper material. **Read the relevant week's
    chapter end-to-end before opening any link.** The handbook exists so
    you don't waste time hopping between blog posts just to figure out
    what a word means.
-2. **`Overview/syllabus_main.tex` — the Short Syllabus.** One-page-per-week
+2. **`Overview/syllabus_main.pdf` — the Short Syllabus.** One-page-per-week
    tables of topics + curated links. Use it as a checklist while you
    work through the week.
 3. **`week_N/Readme.md`** — concrete week-by-week plan: topics,
